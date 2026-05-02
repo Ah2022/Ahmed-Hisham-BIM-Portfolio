@@ -6,7 +6,7 @@ const projects = [
   {
     title: "SMC Hospital",
     subtitle: "DB-142 — Riyadh, Saudi Arabia",
-    image: "/manus-storage/smc_hospital_revit_de39004f.png",
+    image: "/manus-storage/smc_hospital_c1f81404.jpeg",
     description:
       "A ~69,145 m² state-of-the-art hospital in Riyadh's Al Wadi District, designed by DAR International. Full MEP modeling and multi-discipline coordination in Revit, targeting LEED v4 BD+C Healthcare Gold certification.",
     role: "MEP BIM Modeling & Coordination",
@@ -21,7 +21,7 @@ const projects = [
   {
     title: "Nile Business City",
     subtitle: "Nile Towers — New Administrative Capital, Egypt",
-    image: "/manus-storage/nile_towers_mep_2941fe5d.png",
+    image: "/manus-storage/nile_towers_55257bc8.jpeg",
     description:
       "One of Africa's tallest skyscrapers by Nile Developments in Egypt's New Administrative Capital. Comprehensive MEP coordination for this iconic mixed-use tower, managing complex vertical distribution systems across 50+ floors.",
     role: "MEP Coordination & Modeling",

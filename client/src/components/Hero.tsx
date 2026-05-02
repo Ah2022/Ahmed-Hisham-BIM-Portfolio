@@ -101,7 +101,7 @@ export default function Hero() {
               <div className="absolute -inset-4 rounded-full bg-gradient-to-br from-primary/20 via-transparent to-chart-5/20 blur-2xl" />
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-2 border-border/50 shadow-2xl">
                 <img
-                  src="/manus-storage/profile_picture_8186974f.png"
+                  src="/manus-storage/profile_ahmed_e78b9a39.png"
                   alt="Ahmed Hisham"
                   className="w-full h-full object-cover"
                 />
@@ -112,7 +112,7 @@ export default function Hero() {
                 transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
                 className="absolute -bottom-2 -right-2 sm:bottom-4 sm:right-0 px-4 py-2 rounded-lg bg-card border border-border shadow-xl"
               >
-                <span className="font-mono text-xs text-primary font-semibold">6+ Years</span>
+                <span className="font-mono text-xs text-primary font-semibold">2+ Years</span>
                 <span className="block text-[10px] text-muted-foreground">Experience</span>
               </motion.div>
             </div>
